@@ -1,0 +1,9 @@
+PUT http://localhost:8080/events/4
+Content-Type: application/json
+
+{
+  "name":"updatet event",
+  "description":"update description",
+  "location":"update location"
+
+}

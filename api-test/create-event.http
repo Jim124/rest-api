@@ -1,0 +1,9 @@
+POST http://localhost:8080/events
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3RAZ21haWwuY29tIiwiZXhwIjoxNzI3MTM1MzA2LCJ1c2VySWQiOjF9.FmGmxFI43cBM7CymBY40VfdKvbD_30DN7HwYLEJWUk8
+
+{
+  "name":"third add a event",
+  "location":"third add a location",
+  "description":"third a description"
+}
